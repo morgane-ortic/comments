@@ -15,7 +15,7 @@ In this section of the repository, you will find an Excalidraw file, that contai
 To view and edit the Excalidraw file:
 
 1. **Open Excalidraw**: Visit [Excalidraw](https://excalidraw.com/).
-2. **Open File**: Click on the "Open" button and select the `your-excalidraw-file.excalidraw` file from this repository.
+2. **Open File**: Click on the "Open" button and select the file from this repository.
 3. **Edit Diagrams**: You can now view and edit the diagrams and stuff in the Excalidraw file. Make changes as needed.
 4. **Save Changes**: After making changes, you can save the file back to the repository or export it to your local machine.
 
